@@ -1,0 +1,23 @@
+﻿# Core analysis and notebooks
+jupyter
+numpy
+pandas
+scikit-learn
+openpyxl
+threadpoolctl
+tqdm
+
+# Machine-learning models
+xgboost
+catboost
+torch
+pytorch-tabnet
+iterative-stratification
+rtdl-revisiting-models
+tab-transformer-pytorch
+
+# Embeddings and literature-data preprocessing
+openai
+langchain<0.2
+langchain-community<0.1
+pypdf
