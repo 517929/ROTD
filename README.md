@@ -10,7 +10,7 @@ The **Rare Ocular Tumor Dataset (ROTD 1.0)** is a literature-derived, case-level
 
 Case information was extracted with large language model assistance and reviewed and corrected by two researchers. Disease diagnoses were standardized using Orphanet and ICD-11, phenotypes using the Human Phenotype Ontology (HPO), and anatomical locations using SNOMED CT. The dataset covers 15 rare ocular tumor entities and 335 additional disease categories, including differential diagnoses and systemic comorbidities.
 
-This repository provides the cleaned dataset used by the analysis notebooks, preprocessing and extraction materials, and code for three computational use cases. The associated dataset release is archived on Figshare.
+This repository provides the cleaned dataset used by the analysis notebooks, preprocessing and extraction materials, and code for three computational use cases. The associated dataset release is archived on Figshare (https://doi.org/10.6084/m9.figshare.35024266).
 
 ![ROTD data collection, data content, and technical validation overview](./figure/figure1.png)
 
