@@ -1,4 +1,4 @@
-# Supplementary Method S3. Extraction Prompts for ROTD Data Extraction
+# Extraction Prompts for ROTD Data Extraction
 
 # -------------------------------------------------------------------------
 # Stage 1: Patient Identification & Demographics
